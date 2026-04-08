@@ -148,6 +148,9 @@
         <mxCell id="geUKg2jcRfVRVF3umZA8-91" value="Basic Texture Features" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="183.75" y="520" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="geUKg2jcRfVRVF3umZA8-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="685" y="394" width="60" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
