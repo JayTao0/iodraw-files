@@ -34,7 +34,7 @@
           <mxGeometry x="575" y="251" width="87.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-11" value="Conv1D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="583.75" y="376" width="70" height="70" as="geometry" />
+          <mxGeometry x="1060" y="496" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="713.75" y="136" width="110" height="320" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry x="725" y="251" width="87.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-15" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="733.75" y="376" width="70" height="70" as="geometry" />
+          <mxGeometry x="583.75" y="376" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-17" target="rUNw__Mm_ONM2btKxq1O-21">
           <mxGeometry relative="1" as="geometry">
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-81" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;sigmoid&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="693.75" y="690" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rUNw__Mm_ONM2btKxq1O-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.979;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-11" target="rUNw__Mm_ONM2btKxq1O-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
