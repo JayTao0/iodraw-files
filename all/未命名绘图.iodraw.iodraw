@@ -10,7 +10,7 @@
         <mxCell id="geUKg2jcRfVRVF3umZA8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="110" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="geUKg2jcRfVRVF3umZA8-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="geUKg2jcRfVRVF3umZA8-9" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geUKg2jcRfVRVF3umZA8-15">
