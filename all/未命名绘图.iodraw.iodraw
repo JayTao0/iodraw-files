@@ -127,7 +127,7 @@
         <mxCell id="geUKg2jcRfVRVF3umZA8-97" value="&lt;p style=&quot;text-indent: 0pt; line-height: 114%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 18px; line-height: 114%;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;vertical-align: super; font-size: 18px; line-height: 114%;&quot;&gt;[1]&lt;/span&gt;&lt;span style=&quot;line-height: 114%; font-size: 15px;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10pt; font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1080" y="440" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="geUKg2jcRfVRVF3umZA8-106" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=20;arrowHead=20;dx2=25;dy2=30;" vertex="1" parent="1">
+        <mxCell id="geUKg2jcRfVRVF3umZA8-107" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;" vertex="1" parent="1">
           <mxGeometry x="1000" y="250" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
