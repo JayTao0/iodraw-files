@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-26" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="264.37" y="480" width="110" height="110" as="geometry" />
+          <mxGeometry x="264.37" y="540" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="-10" width="60" height="200" as="geometry" />
@@ -356,9 +356,6 @@
           <mxGeometry x="733.75" y="376" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=110;entryDy=65;entryPerimeter=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-4" target="rUNw__Mm_ONM2btKxq1O-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-17" target="rUNw__Mm_ONM2btKxq1O-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
