@@ -89,7 +89,7 @@
           <mxGeometry x="590" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-75" value="Batch&lt;div style=&quot;font-size: 14px;&quot;&gt;Normalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="581.25" y="235" width="87.5" height="90" as="geometry" />
+          <mxGeometry x="581.25" y="235" width="88.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-76" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="590" y="360" width="70" height="70" as="geometry" />
