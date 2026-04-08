@@ -58,10 +58,10 @@
           <mxGeometry x="284.37" y="146" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-19" value="Batch&lt;div style=&quot;font-size: 14px;&quot;&gt;Normalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="277.63" y="246" width="88.75" height="90" as="geometry" />
+          <mxGeometry x="274.99" y="251" width="88.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-20" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="376" width="70" height="70" as="geometry" />
+          <mxGeometry x="285" y="376" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;curved=0;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-21" target="rUNw__Mm_ONM2btKxq1O-17">
           <mxGeometry relative="1" as="geometry">
