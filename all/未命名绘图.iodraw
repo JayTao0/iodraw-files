@@ -11,7 +11,7 @@
           <mxGeometry x="563.75" y="136" width="110" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-6" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="853.75" y="456" width="110" height="110" as="geometry" />
+          <mxGeometry x="900" y="480" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-7" value="Dropout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="178.75" y="730" width="120" height="60" as="geometry" />
