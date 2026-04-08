@@ -86,11 +86,6 @@
         <mxCell id="rUNw__Mm_ONM2btKxq1O-24" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="737" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-26" target="rUNw__Mm_ONM2btKxq1O-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="924.9999999999995" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-26" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870" y="440" width="110" height="110" as="geometry" />
         </mxCell>
