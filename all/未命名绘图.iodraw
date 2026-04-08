@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-6" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="495" y="480" width="110" height="110" as="geometry" />
+          <mxGeometry x="487.5" y="480" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-7" value="Dropout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
@@ -358,7 +358,7 @@
         <mxCell id="rUNw__Mm_ONM2btKxq1O-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=110;entryDy=65;entryPerimeter=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-4" target="rUNw__Mm_ONM2btKxq1O-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-17" target="rUNw__Mm_ONM2btKxq1O-26">
+        <mxCell id="rUNw__Mm_ONM2btKxq1O-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-17" target="rUNw__Mm_ONM2btKxq1O-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
