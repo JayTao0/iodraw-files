@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-19" value="Dropout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1270" y="110" width="80" height="80" as="geometry" />
