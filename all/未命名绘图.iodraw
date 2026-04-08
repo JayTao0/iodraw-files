@@ -18,9 +18,6 @@
         <mxCell id="rUNw__Mm_ONM2btKxq1O-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="110" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=110;exitDy=65;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-6" target="rUNw__Mm_ONM2btKxq1O-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-6" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="110" height="110" as="geometry" />
         </mxCell>
@@ -85,12 +82,6 @@
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-26" value="Max Pooling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870" y="440" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-12" target="rUNw__Mm_ONM2btKxq1O-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rUNw__Mm_ONM2btKxq1O-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.036;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="rUNw__Mm_ONM2btKxq1O-21" target="rUNw__Mm_ONM2btKxq1O-26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rUNw__Mm_ONM2btKxq1O-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="238.75" y="384" width="60" height="200" as="geometry" />
