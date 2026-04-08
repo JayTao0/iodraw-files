@@ -73,16 +73,16 @@
           <mxGeometry x="160" y="380" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="140" width="110" height="320" as="geometry" />
+          <mxGeometry x="290" y="120" width="110" height="320" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-54" value="Conv1D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="70" height="70" as="geometry" />
+          <mxGeometry x="310" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-55" value="Batch&lt;div&gt;Normalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="255" width="85" height="90" as="geometry" />
+          <mxGeometry x="302.5" y="235" width="85" height="90" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-56" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="70" height="70" as="geometry" />
+          <mxGeometry x="310" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="110" height="320" as="geometry" />
@@ -97,16 +97,16 @@
           <mxGeometry x="590" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="140" width="110" height="320" as="geometry" />
+          <mxGeometry x="717" y="120" width="110" height="320" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-78" value="Conv1D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="737" y="150" width="70" height="70" as="geometry" />
+          <mxGeometry x="737" y="130" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-79" value="Batch&lt;div&gt;Normalization&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="729.5" y="255" width="85" height="90" as="geometry" />
+          <mxGeometry x="729.5" y="235" width="85" height="90" as="geometry" />
         </mxCell>
         <mxCell id="geUKg2jcRfVRVF3umZA8-80" value="ReLu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="737" y="380" width="70" height="70" as="geometry" />
+          <mxGeometry x="737" y="360" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
